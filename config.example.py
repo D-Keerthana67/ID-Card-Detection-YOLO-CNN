@@ -1,0 +1,14 @@
+CAMERA_INDEX = 0
+YOLO_MODEL_PATH = "models/id_card_yolo.pt"
+YOLO_CONFIDENCE = 0.50
+PERSON_CLASS_ID = 0
+WARNING_LIMIT = 3
+FINE_AMOUNT = 500
+VIOLATION_CONFIRMATION_FRAMES = 15
+EMAIL_SENDER = "your_email@gmail.com"
+EMAIL_PASSWORD = "your_app_password"
+EMAIL_RECEIVER = "admin@example.com"
+SMTP_SERVER = "smtp.gmail.com"
+SMTP_PORT = 587
+STUDENT_ID = "DEMO_STUDENT"
+FINE_LOG_PATH = "logs/fines.csv"
